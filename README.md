@@ -1,4 +1,4 @@
-👋 Hi there! I'm a passionate software developer with a focus on building robust and user-friendly web applications. My expertise lies in React, Express.js, Node.js, and MongoDB, and I'm currently working on a music web application and a resume generation tool.
+👋 Hi there! I'm a passionate software developer with a focus on building robust and user-friendly web applications. My expertise lies in React, Express.js, Node.js, and MongoDB, and I'm currently working on a music application and a resume generation tool.
 
 🚀 Current Projects:
 
